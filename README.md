@@ -1,58 +1,78 @@
-<p align="center">
-<a href="https://tenor.com/view/robot-dancing-gif-music-plugdj-funny-gif-24707133"><img src="https://media1.tenor.com/m/ef3GzWA6dL4AAAAC/robot-dancing-gif.gif" width="180" alt="Robotita tierna con moño rosa bailando" /></a>
-</p>
+<img align="right" src="lele-guino.gif" width="155" alt="Lele sonriendo y guiñando un ojo" />
 
-<div align="center">
-
-# Hola, soy Lizeth Bello 👋
+# Hola, soy Lizeth Bello
 
 **Frontend Development · Data Analysis · UX/UI**
 
-Estudiante de Ingeniería de Software en la Universidad Veracruzana.
-Me interesa entender las necesidades de las personas y el contexto del problema antes de construir una solución.
+Estudiante de Ingeniería de Software en la Universidad Veracruzana, México.
+Me gusta entender a las personas y el problema antes de construir una solución.
 
-[LinkedIn](https://www.linkedin.com/in/lizeth-bello-a25a522a8/) · [Proyectos](https://github.com/lizethbellop?tab=repositories)
+<img src="sol.png" width="22" height="22" alt="" /> **Me interesa:** crear interfaces claras, explorar datos y diseñar experiencias útiles.<br />
+<img src="sol.png" width="22" height="22" alt="" /> **Estoy aprendiendo:** frontend y diseño de experiencias de usuario.<br />
+<img src="sol.png" width="22" height="22" alt="" /> **Mi forma de trabajar:** entender → definir → diseñar → construir → aprender.
 
-</div>
+<br clear="right" />
 
----
+<p><img src="mosaico.png" width="100%" alt="Divisor de mosaico mexicano" /></p>
 
-### Mi enfoque
+## Tecnologías y herramientas
 
-Quiero conectar interfaces claras, análisis de datos y comprensión de procesos para desarrollar productos digitales centrados en el usuario. Mi experiencia es académica; sigo aprendiendo frontend y explorando UX/UI.
+**Frontend · en aprendizaje**
 
-He participado en levantamiento de requisitos, diseño con UML y desarrollo de aplicaciones. Cuento con la certificación **Google Foundations of User Experience (UX) Design (2025)**.
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-D85B2A?style=for-the-badge&logo=html5&logoColor=white" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-218EBC?style=for-the-badge&logo=css&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-C69412?style=for-the-badge&logo=javascript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/React-168BA1?style=for-the-badge&logo=react&logoColor=white" />
 
-### Proyectos seleccionados
+**Análisis de datos**
 
-| Proyecto | Qué puedes explorar | Estado |
-| --- | --- | --- |
-| [Musa · Books & Music](https://github.com/lizethbellop/books-music-platform) | Plataforma con frontend Flutter: catálogos, perfiles y selección de preferencias. | En desarrollo; el repositorio documenta los flujos actuales y su integración. |
-| [Safe-Steps](https://github.com/lizethbellop/Safe-Steps) | Interfaz React con navegación, registro, selección de perfiles y acceso a juegos. | Código disponible; experiencia y alcance por documentar con capturas. |
-| [NFL Data Analysis](https://github.com/lizethbellop/NFLDataAnalysis) | Preparación e integración de datos con pandas y experimentación con Random Forest. | Experimento académico; requiere corregir reproducibilidad y validación temporal antes de presentar resultados predictivos. |
-| [Gestión de Prácticas Profesionales](https://github.com/lizethbellop/Professional-Practices-Project) | Aplicación Java para coordinadores, estudiantes y docentes. Participé en requisitos, UML e implementación de funcionalidades del proceso. | Proyecto académico con código disponible. |
+<img alt="Python" src="https://img.shields.io/badge/Python-287EAF?style=for-the-badge&logo=python&logoColor=white" /> <img alt="pandas" src="https://img.shields.io/badge/pandas-704494?style=for-the-badge&logo=pandas&logoColor=white" /> <img alt="NumPy" src="https://img.shields.io/badge/NumPy-168F9F?style=for-the-badge&logo=numpy&logoColor=white" /> <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-D87525?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img alt="Excel" src="https://img.shields.io/badge/Excel-56882D?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-Las tecnologías y funciones describen los repositorios; no implican autoría individual de todos sus componentes.
+**Otras herramientas de mis proyectos académicos**
 
-### Bitácora Culinaria · Caso de negocio
+<img alt="Java" src="https://img.shields.io/badge/Java-BC393C?style=for-the-badge&logo=openjdk&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-D45D36?style=for-the-badge&logo=git&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-247CAD?style=for-the-badge&logo=mysql&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-485D9A?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-**Plan de negocio y análisis de procesos.** Conceptualización de un negocio desde cero, definición de propuesta de valor y modelo de operación, diseño de procesos, KPI, estructura de costos y estimación del punto de equilibrio.
+Las etiquetas muestran herramientas que uso o estoy aprendiendo; no representan niveles de dominio.
 
-**Documentado en mi CV:** el trabajo de planeación y análisis.
-**Por publicar:** un caso de estudio con contexto, decisiones, supuestos y aprendizajes, sin información financiera sensible. No se presenta como una aplicación implementada ni como un negocio en operación.
+<p><img src="mosaico.png" width="100%" alt="Divisor de mosaico mexicano" /></p>
 
-### Aprendizaje y herramientas
+## Proyectos seleccionados
 
-- **Frontend:** aprendizaje de HTML, CSS, JavaScript y React; exploración de interfaces y flujos de usuario.
-- **Datos:** Python, pandas, NumPy, scikit-learn y Excel.
-- **Producto y UX:** requisitos, UML, análisis de procesos y fundamentos de diseño de experiencia de usuario.
+<img src="sol.png" width="22" height="22" alt="" /> **[Musa · Books & Music](https://github.com/lizethbellop/books-music-platform)**  
+Plataforma con frontend Flutter, catálogos, perfiles y selección de preferencias. **En desarrollo.**
 
-### Cómo me gusta abordar un proyecto
+<img src="sol.png" width="22" height="22" alt="" /> **[Safe-Steps](https://github.com/lizethbellop/Safe-Steps)**  
+Interfaz React con navegación, registro, selección de perfiles y acceso a juegos. **Código disponible; capturas y alcance por documentar.**
 
-Entender el problema y a las personas → definir necesidades y alcance → plantear la solución → implementar → revisar y aprender.
+<img src="sol.png" width="22" height="22" alt="" /> **[NFL Data Analysis](https://github.com/lizethbellop/NFLDataAnalysis)**  
+Preparación e integración de datos con pandas y experimentación con Random Forest. **Experimento académico; reproducibilidad y validación temporal pendientes.**
 
-Me interesan proyectos que conecten tecnología con cultura, deportes y beneficio social.
+<img src="sol.png" width="22" height="22" alt="" /> **[Gestión de Prácticas Profesionales](https://github.com/lizethbellop/Professional-Practices-Project)**  
+Aplicación Java para coordinadores, estudiantes y docentes. Participé en requisitos, UML e implementación de funcionalidades. **Proyecto académico.**
 
-<p align="center">🌸 ¡Gracias por visitar mi portafolio! 🌸</p>
+<sub>Las funciones describen los repositorios; no implican autoría individual de todos sus componentes.</sub>
 
-<sub>GIF: [ultimatedroid en Tenor](https://tenor.com/view/robot-dancing-gif-music-plugdj-funny-gif-24707133).</sub>
+<p><img src="mosaico.png" width="100%" alt="Divisor de mosaico mexicano" /></p>
+
+## Bitácora Culinaria · Caso de negocio
+
+Un plan de negocio que parte de una idea y la convierte en una propuesta estructurada.
+
+<img src="sol.png" width="22" height="22" alt="" /> Propuesta de valor y modelo de operación.<br />
+<img src="sol.png" width="22" height="22" alt="" /> Diseño de procesos e indicadores clave (KPI).<br />
+<img src="sol.png" width="22" height="22" alt="" /> Estructura de costos y estimación del punto de equilibrio.
+
+**Trabajo documentado en mi CV.** El caso completo con decisiones, supuestos y aprendizajes está **por publicar**. Es un proyecto de planeación, sin presentarlo como aplicación implementada ni negocio en operación.
+
+<p><img src="mosaico.png" width="100%" alt="Divisor de mosaico mexicano" /></p>
+
+## Un poquito más de mí
+
+<img src="sol.png" width="22" height="22" alt="" /> Me interesan la cultura, los deportes y los proyectos con beneficio social.<br />
+<img src="sol.png" width="22" height="22" alt="" /> He participado en levantamiento de requisitos y diseño con UML.<br />
+<img src="sol.png" width="22" height="22" alt="" /> Certificación: Google Foundations of User Experience (UX) Design, 2025.
+
+## Conectemos
+
+<a href="https://www.linkedin.com/in/lizeth-bello-a25a522a8/"><img src="https://img.shields.io/badge/LinkedIn-247CAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Lizeth Bello" /></a>
+
+<p><img src="mosaico.png" width="100%" alt="Divisor de mosaico mexicano" /></p>
+
+<p align="center"><img src="lele-despedida.gif" width="145" alt="Muñeca Lele despidiéndose con la mano" /><br /><b>¡Gracias por visitar mi rincón de GitHub!</b></p>
