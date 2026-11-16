@@ -1,14 +1,16 @@
 # Hola, soy Lizeth Bello
 
 <br />
-<img align="left" src="lele-guino.gif" width="145" hspace="18" alt="Lele sonriendo y guiñando un ojo" />
+<img align="left" src="lele-guino-espacio.gif" width="190" alt="Lele sonriendo y guiñando un ojo" />
 
 **Frontend Development · Data Analysis · UX/UI**
 
 Estudiante de Ingeniería de Software en la Universidad Veracruzana, México.
 Me gusta entender a las personas y el problema antes de construir una solución.
 
-<img src="sol.png" width="24" height="24" alt="" /> **Me interesa:** crear interfaces claras, explorar datos y diseñar experiencias útiles.<br />
+<br clear="left" />
+
+<img src="sol-uniforme.png" width="24" height="24" alt="" /> **Me interesa:** crear interfaces claras, explorar datos y diseñar experiencias útiles.<br />
 <img src="sol-turquesa.png" width="24" height="24" alt="" /> **Estoy aprendiendo:** frontend y diseño de experiencias de usuario.<br />
 <img src="sol-terracota.png" width="24" height="24" alt="" /> **Mi forma de trabajar:** entender → definir → diseñar → construir → aprender.
 
@@ -46,7 +48,7 @@ Las etiquetas muestran herramientas que uso o estoy aprendiendo; no representan 
 
 ## Proyectos seleccionados
 
-<img src="sol.png" width="24" height="24" alt="" /> **[Musa · Books & Music](https://github.com/lizethbellop/books-music-platform)**  
+<img src="sol-uniforme.png" width="24" height="24" alt="" /> **[Musa · Books & Music](https://github.com/lizethbellop/books-music-platform)**  
 Plataforma con frontend Flutter, catálogos, perfiles y selección de preferencias. **En desarrollo.**
 
 <img src="sol-turquesa.png" width="24" height="24" alt="" /> **[Safe-Steps](https://github.com/lizethbellop/Safe-Steps)**  
@@ -67,7 +69,7 @@ Aplicación Java para coordinadores, estudiantes y docentes. Participé en requi
 Un plan de negocio que parte de una idea y la convierte en una propuesta estructurada.
 
 <img src="sol-terracota.png" width="24" height="24" alt="" /> Propuesta de valor y modelo de operación.<br />
-<img src="sol.png" width="24" height="24" alt="" /> Diseño de procesos e indicadores clave (KPI).<br />
+<img src="sol-uniforme.png" width="24" height="24" alt="" /> Diseño de procesos e indicadores clave (KPI).<br />
 <img src="sol-verde.png" width="24" height="24" alt="" /> Estructura de costos y estimación del punto de equilibrio.
 
 **Trabajo documentado en mi CV.** El caso completo con decisiones, supuestos y aprendizajes está **por publicar**. Es un proyecto de planeación, sin presentarlo como aplicación implementada ni negocio en operación.
@@ -78,7 +80,7 @@ Un plan de negocio que parte de una idea y la convierte en una propuesta estruct
 
 <img src="sol-lila.png" width="24" height="24" alt="" /> Me interesan la cultura, los deportes y los proyectos con beneficio social.<br />
 <img src="sol-turquesa.png" width="24" height="24" alt="" /> He participado en levantamiento de requisitos y diseño con UML.<br />
-<img src="sol.png" width="24" height="24" alt="" /> Certificación: Google Foundations of User Experience (UX) Design, 2025.
+<img src="sol-uniforme.png" width="24" height="24" alt="" /> Certificación: Google Foundations of User Experience (UX) Design, 2025.
 
 ## Conectemos
 
