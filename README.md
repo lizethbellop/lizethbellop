@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Ilustración animada de un espacio de trabajo de programación" />
+<a href="https://tenor.com/view/robot-dancing-gif-music-plugdj-funny-gif-24707133"><img src="https://media1.tenor.com/m/ef3GzWA6dL4AAAAC/robot-dancing-gif.gif" width="180" alt="Robotita tierna con moño rosa bailando" /></a>
 </p>
 
 <div align="center">
@@ -53,8 +53,6 @@ Entender el problema y a las personas → definir necesidades y alcance → plan
 
 Me interesan proyectos que conecten tecnología con cultura, deportes y beneficio social.
 
+<p align="center">🌸 ¡Gracias por visitar mi portafolio! 🌸</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" alt="Mano saludando" />
-  <br />¡Gracias por visitar mi portafolio!
-</p>
+<sub>GIF: [ultimatedroid en Tenor](https://tenor.com/view/robot-dancing-gif-music-plugdj-funny-gif-24707133).</sub>
