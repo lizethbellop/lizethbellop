@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Ilustración animada de un espacio de trabajo de programación" />
+</p>
+
 <div align="center">
 
 # Hola, soy Lizeth Bello 👋
@@ -48,3 +52,9 @@ Las tecnologías y funciones describen los repositorios; no implican autoría in
 Entender el problema y a las personas → definir necesidades y alcance → plantear la solución → implementar → revisar y aprender.
 
 Me interesan proyectos que conecten tecnología con cultura, deportes y beneficio social.
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32" alt="Mano saludando" />
+  <br />¡Gracias por visitar mi portafolio!
+</p>
