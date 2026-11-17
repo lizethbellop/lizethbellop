@@ -48,6 +48,9 @@ Las etiquetas muestran herramientas que uso o estoy aprendiendo; no representan 
 
 ## Proyectos seleccionados
 
+<img src="sol-terracota.png" width="24" height="24" alt="" /> **[Archs vs Dinos](https://github.com/lizethbellop/ArchsVsDinos)**  
+Videojuego multicliente en C#, con interfaz WPF y servicios WCF. Uno de los proyectos que más me ha retado. **Proyecto académico.**
+
 <img src="sol-uniforme.png" width="24" height="24" alt="" /> **[Musa · Books & Music](https://github.com/lizethbellop/books-music-platform)**  
 Plataforma con frontend Flutter, catálogos, perfiles y selección de preferencias. **En desarrollo.**
 
@@ -78,8 +81,9 @@ Un plan de negocio que parte de una idea y la convierte en una propuesta estruct
 
 ## Un poquito más de mí
 
-<img src="sol-lila.png" width="24" height="24" alt="" /> Me interesan la cultura, los deportes y los proyectos con beneficio social.<br />
-<img src="sol-turquesa.png" width="24" height="24" alt="" /> He participado en levantamiento de requisitos y diseño con UML.<br />
+<img src="sol-lila.png" width="24" height="24" alt="" /> Amo México, su cultura y su historia. También me entusiasman los proyectos con beneficio social.<br />
+<img src="sol-turquesa.png" width="24" height="24" alt="" /> ¡A un año de ser software engineer! Sigo aprendiendo y dando forma a ideas que me emocionan.<br />
+<img src="sol-terracota.png" width="24" height="24" alt="" /> Amo los deportes y adoro el cine; quiero crear proyectos que conecten la tecnología con estas dos pasiones.<br />
 <img src="sol-uniforme.png" width="24" height="24" alt="" /> Certificación: Google Foundations of User Experience (UX) Design, 2025.
 
 ## Conectemos
